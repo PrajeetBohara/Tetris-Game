@@ -6,7 +6,8 @@
 
 public class ElBrick extends TetrisBrick {
 
-    public ElBrick(int colorNum, int centerCol) {
+    public ElBrick(int colorNum, int centerCol)
+    {
 
         super(colorNum, centerCol);
     }
